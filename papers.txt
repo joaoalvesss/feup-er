@@ -1,0 +1,5 @@
+Title: How AI is Automating and Enhancing Requirements Elicitation
+
+AI chatbots in RE: https://colab.ws/articles/10.1109%2FRTEICT46194.2019.9016907
+Automating elicitation with NLP and LLMs: https://arxiv.org/html/2409.00038v1#:~:text=We%20implemented%20a%20multi,in%20task%20completion%20among%20the
+Broader impact and theoretical perspectives: https://digitalcommons.odu.edu/emse_fac_pubs/186/#:~:text=engines,of%20preprocessing%20methods%2C%203%20different
